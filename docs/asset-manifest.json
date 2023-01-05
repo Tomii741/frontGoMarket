@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8091ac15.css",
+    "main.js": "/static/js/main.508b9ff4.js",
+    "static/js/787.71df535f.chunk.js": "/static/js/787.71df535f.chunk.js",
+    "static/media/logo.jpg": "/static/media/logo.b4541e8184aac54be8db.jpg",
+    "static/media/vino.jpg": "/static/media/vino.aef93101683e820e2016.jpg",
+    "static/media/tragos.jpg": "/static/media/tragos.ea6c0548c951cc32f875.jpg",
+    "static/media/about.jpg": "/static/media/about.bb771f00c1348de58fcb.jpg",
+    "static/media/GoMarket.jpg": "/static/media/GoMarket.a2ecb0179e3168f1a2b2.jpg",
+    "static/media/card.jpg": "/static/media/card.f06fde0ec91453c66cee.jpg",
+    "index.html": "/index.html",
+    "main.8091ac15.css.map": "/static/css/main.8091ac15.css.map",
+    "main.508b9ff4.js.map": "/static/js/main.508b9ff4.js.map",
+    "787.71df535f.chunk.js.map": "/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8091ac15.css",
+    "static/js/main.508b9ff4.js"
+  ]
+}
