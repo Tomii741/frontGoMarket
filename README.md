@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+GoMarket
+Pagina Web para la venta de Bebidas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto Final Diplomatura Web Full Stack UTN
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Descripción del proyecto
+Esta pagina consiste en un sistema para la venta de bebidas, contiene 4 paginas navegables: 
+1- Home: en el home se puede ver un carrusel con imagenes personalizadas con el logo de la pagina, y unas cartas que muestra los ultimos 4 productos que fueron cargados a la base de datos.
+2- Sobre Nosotros: en esta pagina podemos ver una imagen personalizada con el logo de la pagina, y una descripcion sobre la empresa.
+3- Categoria: en esta pagina se puede ver una lista con los productos que fueron cargados en la base de datos, con su nombre y precio.
+4- Carga de Producto: en esta pagina se puede ver un formulario donde el administrador de la pagina puede cargar prodcutos a la base de datos, insertando el nombre del producto y el precio.
+Tecnologías :
+FrontEnd: ReactJS | JSX | React-Bootstrap | Bootstrap
+BackEnd: Javascript | Node.js | Express.js | MongoDb | mongoose
+Realizado por:
+Tomas Adrian Lopez
+Link del Frontend Deployado 🔗:
+https://lucky-torrone-bf5cd4.netlify.app/
+Link del Backend Deployado 🔗:
+https://backgomarket-production.up.railway.app/datos
