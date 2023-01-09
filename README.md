@@ -1,12 +1,12 @@
-GoMarket
+# GoMarket
 
-Pagina Web para la venta de Bebidas
+### Pagina Web para la venta de Bebidas
 
 Proyecto Final Diplomatura Web Full Stack UTN
 
 Descripción del proyecto:
 
-Esta pagina consiste en un sistema para la venta de bebidas. 
+Esta pagina consiste en un sistema para la venta de bebidas.
 
 Contiene 4 paginas navegables:
 
@@ -18,7 +18,7 @@ Contiene 4 paginas navegables:
 
 4- Carga de Producto: en esta pagina se puede ver un formulario donde el administrador de la pagina puede cargar prodcutos a la base de datos, insertando el nombre del producto y el precio.
 
-Tecnologías :
+### Tecnologías :
 
 FrontEnd: ReactJS | JSX | React-Bootstrap | Bootstrap
 
@@ -28,11 +28,10 @@ Realizado por:
 
 Tomas Adrian Lopez
 
-Link del Frontend Deployado 🔗:
+## Link del Frontend Deployado 🔗:
 
 https://lucky-torrone-bf5cd4.netlify.app/
 
-Link del Backend Deployado 🔗:
+## Link del Backend Deployado 🔗:
 
 https://backgomarket-production.up.railway.app/datos
-
