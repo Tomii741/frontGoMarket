@@ -13,7 +13,9 @@ const Home = () => {
 
     const [productos, setProductos] = useState([]);
 
-    const URL = 'http://localhost:3001/datos';
+    const URL = 'https://backgomarket-production.up.railway.app/datos';
+
+    //const URL = 'http://localhost:3001/datos';
 
     const getProductos = async () => {
         try {

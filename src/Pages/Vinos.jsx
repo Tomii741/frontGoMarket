@@ -9,7 +9,9 @@ import axios from 'axios'
 const Vinos = () => {
 
     const URL = 'https://backgomarket-production.up.railway.app';
+
     //const URL = 'http://localhost:3001';
+    
     const [productos, setProductos] = useState([]);
 
     const getProductos = async () => {
